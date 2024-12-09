@@ -9,7 +9,7 @@ purposed as an alternative to JWT.io.
 1. Make sure you have deno installed. If not, please visit their
    [Docs](https://docs.deno.com/runtime/getting_started/installation/).
 2. Clone this repo
-3. Give main.ts executable permissions `chmod +x hashbang.ts`
+3. Give main.ts executable permissions `chmod +x main.ts`
 4. Execute main.ts `./main.ts`
 
 ## Example
